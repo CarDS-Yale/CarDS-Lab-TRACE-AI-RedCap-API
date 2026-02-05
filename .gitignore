@@ -1,0 +1,22 @@
+
+# Security
+.env
+
+# Environments
+venv/
+env/
+.venv/
+
+# Python leftovers
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+data_folder
+.vscode
+.history
