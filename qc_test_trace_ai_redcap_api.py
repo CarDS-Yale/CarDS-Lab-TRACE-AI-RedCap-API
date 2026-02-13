@@ -7,7 +7,7 @@ records = [str(i) for i in range(30, 46)]
 # Your Flask address
 BASE_URL = "http://127.0.0.1:5000/transfer"
 
-print("---STARTING QC BATCH TEST (12 PASS, 3 FAIL)---")
+print("---STARTING QC BATCH TEST---")
 print("-" * 50)
 
 for rid in records:
